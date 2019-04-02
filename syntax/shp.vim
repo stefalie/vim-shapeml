@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language: ShapeML
-" Maintainer: Gaspard Zoss, Stefan Lienhard
-" Latest Revision: 31 March 2018
+" Maintainer: Stefan Lienhard, Gaspard Zoss
+" Latest Revision: 2 April 2019
 
 if exists("b:current_syntax")
   finish

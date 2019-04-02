@@ -1,6 +1,6 @@
-" Vim filedetect syntax file
+" Vim filedetect file
 " Language: ShapeML
-" Maintainer: Gaspard Zoss, Stefan Lienhard
-" Latest Revision: 10 May 2017
+" Maintainer: Stefan Lienhard, Gaspard Zoss
+" Latest Revision: 2 April 2019
 au BufRead,BufNewFile *.shp set filetype=shp
 
